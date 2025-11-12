@@ -48,7 +48,7 @@ API completa para agendamento de consultas médicas, construída com Java e Spri
 ### 📫 Como me encontrar  
 - ✉️ Email: lucas.haddad0799@gmail.com  
 - 💼 GitHub: [github.com/Haddad0799](https://github.com/Haddad0799)  
-- 🔗 LinkedIn: *[Inserir link do seu perfil]*
+- 🔗 LinkedIn: https://www.linkedin.com/in/lucas-haddad-aa7a0b28a
 
 ---
 
