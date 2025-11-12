@@ -33,7 +33,38 @@ Instituição com nota máxima no MEC, referência em tecnologia. Durante a form
 
 ---
 
-### 📂 Projetos Principais  
+### 📂 Projetos Principais 
+
+QueenFitStyle ERP (out/2025 – atual)
+ERP Modular Monolith para gestão completa de catálogo e estoque de um e-commerce de roupas de academia feminina.
+
+🔹 **Stack**: Java 21 · Spring Boot 3 · Spring Data JPA · MySQL · Maven · AWS S3 (ou MinIO local)
+🔹 **Arquitetura**: Hexagonal (Ports & Adapters) + Clean Architecture + DDD
+🔹 **Princípio**: Monolith First — modularização interna antes da divisão em microsserviços.
+
+🧱 **Destaques Técnicos:**
+- Estrutura modular isolando contextos de catálogo, estoque, importação e armazenamento.  
+- **Arquitetura Hexagonal (Ports & Adapters)** com domínio independente de frameworks.  
+- **Processamento em lote (batch)** e queries otimizadas para importação de produtos e SKUs.  
+- **Upload de imagens via Pre-signed URLs (S3 compatible)**, reduzindo carga no backend.  
+- Aplicação prática de **DDD** com entidades, agregados e value objects ricos.  
+- Separação rigorosa entre **domínio, aplicação e infraestrutura**, com baixo acoplamento.  
+
+📂 **Módulos Principais:**
+1. **App Module** – inicialização e orquestração dos módulos internos.  
+2. **Catalog Module** – gerenciamento de produtos, SKUs, categorias, cores e imagens.  
+3. **Import Module** – importação em massa de produtos e SKUs via Excel, com validação e processamento em lote.  
+4. **Storage Module** – upload de imagens com pre-signed URLs e abstração de storage (S3/MinIO).  
+
+⚙️ **Otimizações:**
+- Inserções em lote com hibernate
+- Evita N+1 problems via fetch joins e consultas customizadas.  
+- Upload direto no bucket, armazenando apenas metadados no banco.  
+
+GitHub → [Haddad0799/queenfitstyle-erp](https://github.com/Haddad0799/queenfitstyle-erp)
+
+
+
 **PayFlow** (mai/2025 – jun/2025)  
 Sistema back-end baseado em microsserviços com Java 17 e Spring Boot 3. Comunica serviços via RabbitMQ (pedidos e pagamentos) para garantir desacoplamento, resiliência e escalabilidade.  
 Infraestrutura automatizada via Docker & Docker Compose, registro de serviços com Eureka, roteamento com Spring Cloud Gateway. Projeto para aprofundar arquitetura distribuída, mensageria, design de APIs e infraestrutura como código.  
@@ -52,4 +83,4 @@ API completa para agendamento de consultas médicas, construída com Java e Spri
 
 ---
 
-> ⚡ *Fun fact:* Quando não estou codando ou treinando, você me encontra no campo de futebol ou jogando videogame 🎮  
+
