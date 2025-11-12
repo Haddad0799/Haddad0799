@@ -46,7 +46,7 @@ ERP Modular Monolith para gestão completa de catálogo e estoque de um e-commer
 - Estrutura modular isolando contextos de catálogo, estoque, importação e armazenamento.  
 - **Arquitetura Hexagonal (Ports & Adapters)** com domínio independente de frameworks.  
 - **Processamento em lote (batch)** e queries otimizadas para importação de produtos e SKUs.  
-- **Upload de imagens via Pre-signed URLs (minIO(Pronto para migrar para buckets aws, gcp ou azure))**, reduzindo carga no backend.  
+- **Upload de imagens via Pre-signed URLs (minIO inicialmente Pronto para migrar para buckets aws, gcp ou azure)**, reduzindo carga no backend.  
 - Aplicação prática de **DDD** com entidades, agregados e value objects ricos.  
 - Separação rigorosa entre **domínio, aplicação e infraestrutura**, com baixo acoplamento.  
 
