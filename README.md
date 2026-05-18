@@ -1,87 +1,91 @@
 # Lucas Haddad
 
-Desenvolvedor Backend com foco em Java e Spring Boot.
+Backend Developer | Java & Spring Boot | APIs REST | Microsserviços | Sistemas Distribuídos
 
-Experiência prática no desenvolvimento de APIs, integração entre sistemas e implementação de regras de negócio.
+Desenvolvedor Backend focado em Java e Spring Boot, com experiência prática em APIs REST, integração entre sistemas, arquitetura orientada a eventos e processamento assíncrono.
 
-Atualmente desenvolvendo um sistema completo de e-commerce com ERP integrado, com foco em consistência de dados e operação real.
+Atualmente desenvolvendo uma plataforma completa de ERP integrada a e-commerce, com foco em consistência de dados, sincronização entre módulos e escalabilidade de aplicações backend.
 
-Antes da tecnologia, servi por 5 anos no Exército Brasileiro, onde desenvolvi disciplina, responsabilidade e capacidade de trabalhar sob pressão.
+## Stack Principal
 
----
+### Backend
+Java • Spring Boot • Spring Security • JPA • Hibernate • RabbitMQ
 
-## Projeto em destaque
+### Banco de Dados
+PostgreSQL • MySQL • SQL
 
-Sistema de e-commerce com ERP integrado utilizado para gestão de catálogo e operação de loja online.
+### Frontend
+React • Next.js • TypeScript
 
-🔗 https://github.com/Haddad0799/QUEENFITSTYLE-ERP-STORE-BACKEND
+### Infraestrutura & Cloud
+Docker • AWS • GCP • Git
 
----
-
-## Habilidades Técnicas
-
-**Backend:** Java, Spring Boot  
-**Banco de Dados:** MySQL, PostgreSQL  
-**Mensageria:** RabbitMQ  
-**Frontend:** React, Next.js, TypeScript  
-**DevOps:** Docker  
-**Cloud:** AWS (CloudFormation), GCP  
-**Testes:** JUnit, Mockito  
-**Outros:** APIs REST, autenticação JWT, integração entre sistemas  
+### Arquitetura & Conceitos
+Microsserviços • APIs REST • Event-Driven Architecture • Clean Architecture • DDD • SOLID
 
 ---
 
-## Projetos
+# Projetos em Destaque
 
-### QueenFitStyle ERP
+## QueenFitStyle ERP
 
-Sistema de gerenciamento de catálogo e estoque para e-commerce.
+Sistema completo de ERP integrado a e-commerce.
 
-**Principais pontos:**
-- API para gestão de produtos, SKUs e categorias  
-- Importação em massa de produtos via planilha  
-- Upload de imagens com pre-signed URLs  
-- Sincronização entre ERP e loja virtual  
-- Regras de negócio para controle de publicação  
+### Principais funcionalidades
+- APIs REST para catálogo, SKUs, estoque e preços
+- Sincronização entre ERP e loja virtual
+- Upload de imagens com pre-signed URLs
+- Importação em massa de produtos
+- Cache e invalidação sob demanda
+- Processamento orientado a eventos
 
-🔗 https://github.com/Haddad0799/QUEENFITSTYLE-ERP-STORE-BACKEND  
-
----
-
-### PayFlow
-
-Sistema de pedidos e pagamentos com microsserviços.
-
-- Comunicação assíncrona com RabbitMQ  
-- Processamento baseado em eventos  
-- Estrutura com Docker  
-
-🔗 https://github.com/Haddad0799/Payflow  
+Projeto:
+https://github.com/Haddad0799/QUEENFITSTYLE-ERP-STORE-BACKEND
 
 ---
 
-### Voll Med API
+## PayFlow
 
-API para agendamento de consultas médicas.
+Sistema distribuído baseado em microsserviços e comunicação assíncrona.
 
-- Autenticação com JWT  
-- CRUD de médicos e pacientes  
-- Validação de regras de negócio  
-- Testes unitários  
+### Principais conceitos
+- Microsserviços
+- RabbitMQ
+- Event-Driven Architecture
+- Retry, DLQ e DLX
+- Docker
 
-🔗 https://github.com/Haddad0799/VollMedApi  
+Projeto:
+https://github.com/Haddad0799/Payflow
 
 ---
 
-## Formação
+## Voll Med API
+
+API REST para gerenciamento de consultas médicas.
+
+### Principais funcionalidades
+- Autenticação JWT
+- Spring Security
+- Regras de negócio
+- Testes unitários
+- Versionamento de banco com Flyway
+
+Projeto:
+https://github.com/Haddad0799/VollMedApi
+
+---
+
+# Formação
 
 Bacharelado em Engenharia de Software — UniCesumar  
-Fev/2023 – Fev/2027 (em andamento)
+2023 – 2027 (em andamento)
 
 ---
 
-## Contato
+# Contato
 
-Email: lucas.haddad0799@gmail.com  
-GitHub: https://github.com/Haddad0799  
-LinkedIn: https://www.linkedin.com/in/lucas-haddad-backend-developer  
+Email: lucas.haddad0799@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/lucas-haddad-backend-developer/
