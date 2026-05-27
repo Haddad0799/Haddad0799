@@ -12,7 +12,7 @@
 ### 👋 Olá, eu sou o Lucas Haddad!
 
 🎓 Estudante de Engenharia de Software — UniCesumar (2023–2027)  
-⚙️ Desenvolvedor Backend
+⚙️ Desenvolvedor Backend em formação  
 📍 Brasil
 
 </div>
@@ -149,4 +149,3 @@ Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
 
 </div>
-
