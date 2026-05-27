@@ -12,7 +12,7 @@
 ### 👋 Olá, eu sou o Lucas Haddad!
 
 🎓 Estudante de Engenharia de Software — UniCesumar (2023–2027)  
-⚙️ Desenvolvedor Backend em formação  
+⚙️ Desenvolvedor Backend
 📍 Brasil
 
 </div>
