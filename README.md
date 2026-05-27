@@ -111,15 +111,21 @@ Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haddad0799&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haddad0799&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haddad0799&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haddad0799&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haddad0799&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Haddad0799&color=e94560&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
 
 </div>
 
