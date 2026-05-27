@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=200&section=header&text=Lucas%20Haddad&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=60&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f2937&amp;height=200&amp;section=header&amp;text=Lucas%20Haddad&amp;fontSize=60&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&amp;descAlignY=60&amp;descColor=8b949e" />
 
 </div>
 
@@ -143,20 +143,20 @@ queenfitstyle-project/
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haddad0799&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haddad0799&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haddad0799&amp;theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haddad0799&amp;theme=github_dark"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haddad0799&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Haddad0799&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff"/>
 
 </div>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Haddad0799&color=58a6ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
+<img src="https://komarev.com/ghpvc/?username=Haddad0799&amp;color=58a6ff&amp;style=for-the-badge&amp;label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL"/>
 
 </div>
 
@@ -170,6 +170,6 @@ queenfitstyle-project/
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1f2937,50:161b22,100:0d1117&amp;height=120&amp;section=footer"/>
 
 </div>
