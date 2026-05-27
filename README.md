@@ -1,16 +1,8 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f2937&amp;height=200&amp;section=header&amp;text=Lucas%20Haddad&amp;fontSize=60&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&amp;descAlignY=60&amp;descColor=8b949e" />
-
-</div>
-
-<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Lucas+Haddad;Backend+Developer+%7C+Java+%26+Spring+Boot;Building+real+solutions)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-haddad-backend-developer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.haddad0799@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haddad0799)
-
-</div>
 
 ---
 
@@ -26,8 +18,6 @@ Meu objetivo é construir software que seja **consistente, rastreável e escalá
 
 ## 🛠️ Stack
 
-<div align="center">
-
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -41,13 +31,7 @@ Meu objetivo é construir software que seja **consistente, rastreável e escalá
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-<div align="center">
-
-`Arquitetura Modular` • `Event-Driven` • `Clean Architecture` • `DDD` • `SOLID` • `REST APIs` • `JDBI` • `JUnit 5`
-
-</div>
+`Arquitetura Modular` `Event-Driven` `Clean Architecture` `DDD` `SOLID` `REST APIs` `JDBI` `JUnit 5`
 
 ---
 
@@ -70,7 +54,7 @@ O backend opera em dois contextos bem separados:
 | Write model separado do read model | ERP não é consultado diretamente pela loja — catálogo é um snapshot publicado |
 | JDBI com SQL explícito | Controle total sobre queries críticas, sem ORM escondendo comportamento |
 | Upload via pre-signed URL | Arquivo nunca trafega pelo backend; escala sem custo de I/O |
-| Eventos de aplicação para sincronização | Desacoplamento entre publicação de produto e atualização do catálogo |
+| Eventos de aplicação | Desacoplamento entre publicação de produto e atualização do catálogo |
 | Revalidação por tags no Next.js | Frontend invalida cache seletivamente após publicação ou despublicação |
 
 **Fluxo de publicação:**
@@ -89,7 +73,7 @@ Webhook → Next.js revalida cache por tags
 
 **Lógica de vitrine baseada na imagem principal:**
 
-A `mainImageUrl` define a `mainColor` → o SKU vendável mais barato dessa cor vira a `showcaseSelection` → esse preço é exibido na listagem. Com filtros ativos (cor, tamanho, faixa de preço), a API calcula uma `effectiveSelection` em tempo real — se não há SKU compatível, o produto não aparece no resultado.
+A `mainImageUrl` define a `mainColor` → o SKU vendável mais barato dessa cor vira a `showcaseSelection` → esse preço é exibido na listagem. Com filtros ativos, a API calcula uma `effectiveSelection` em tempo real — se não há SKU compatível, o produto não aparece no resultado.
 
 **Módulos:**
 
@@ -115,7 +99,6 @@ queenfitstyle-project/
 
 > Plataforma de pagamentos baseada em microsserviços com comunicação assíncrona via RabbitMQ.
 
-**Conceitos aplicados:**
 - Microsserviços com responsabilidades isoladas
 - RabbitMQ com Dead Letter Queue (DLQ), Dead Letter Exchange (DLX) e retry automático
 - Event-Driven Architecture para desacoplamento entre serviços
@@ -129,7 +112,6 @@ queenfitstyle-project/
 
 > API REST para gerenciamento de consultas médicas com autenticação stateless.
 
-**Conceitos aplicados:**
 - Autenticação JWT com Spring Security
 - Regras de negócio com validações de agendamento
 - Testes unitários com JUnit 5
@@ -141,24 +123,12 @@ queenfitstyle-project/
 
 ## 📊 Estatísticas
 
-<div align="center">
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haddad0799&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haddad0799&theme=github_dark)
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haddad0799&amp;theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haddad0799&amp;theme=github_dark"/>
+![Streak](https://streak-stats.demolab.com?user=Haddad0799&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Haddad0799&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Haddad0799&amp;color=58a6ff&amp;style=for-the-badge&amp;label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL"/>
-
-</div>
+![Views](https://komarev.com/ghpvc/?username=Haddad0799&color=58a6ff&style=for-the-badge&label=VISUALIZACOES+DO+PERFIL)
 
 ---
 
@@ -167,9 +137,3 @@ queenfitstyle-project/
 🎓 **Bacharelado em Engenharia de Software** — UniCesumar · 2023–2027 (em andamento)
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1f2937,50:161b22,100:0d1117&amp;height=120&amp;section=footer"/>
-
-</div>
